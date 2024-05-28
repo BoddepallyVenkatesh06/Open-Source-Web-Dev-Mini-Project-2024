@@ -67,7 +67,7 @@ Before you begin, ensure you have the following installed on your system:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/BoddepallyVenkatesh06/Open-Source-Web-Dev-Mini-Project.git
+git clone https://github.com/BoddepallyVenkatesh06/Open-Source-Web-Dev-Mini-Project-2024.git
 
 cd web-dev-mini-projects
 ```
